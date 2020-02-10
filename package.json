@@ -1,0 +1,22 @@
+{
+  "name": "hostel",
+  "version": "1.0.0",
+  "description": "real-estate platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunnx27/hostel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunnx27/hostel/issues"
+  },
+  "homepage": "https://github.com/hunnx27/hostel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
