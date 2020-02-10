@@ -9,4 +9,10 @@ function handleListening () {
     console.log('3');
 }
 
+function handleHome(req, res){
+    res.send("hello");
+}
+
+app.get("/", handleHome);
+
 app.listen(PORT, handleListening);
